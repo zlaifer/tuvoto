@@ -16,7 +16,8 @@ public class Votasys {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String saludo;
+        saludo="Hola mundo :D";
     }
     
 }
